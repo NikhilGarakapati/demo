@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "RepData": [
     {
         "id": "1",
         "name": "Nikhil Garakapati",
@@ -116,33 +116,20 @@
         "customer pincode": "533434",
         "customer phone": "9999999",
         "phone": "8723473737"
-    },
+    }
     {
         "id": "10",
-        "name": "Suresh Singh",
-        "username": "Suresh",
-        "email": "suresh@gmail.com",
-        "representative region": "ANDHRA PRADESH",
-        "representative hq": "Kurnool",
-        "representative area": "Atamakur",
-        "customer name": "Wildlife Meds",
-        "customer pincode": "5454544",
-        "customer phone": "1211210",
-        "phone": "8723473737"
-    },
-    {
-        "id": "11",
-        "name": "Amit Singh",
-        "username": "Amit",
-        "email": "amit@gmail.com",
+        "name": "Aman Kumar",
+        "username": "Aman",
+        "email": "aman@gmail.com",
         "representative region": "ANDHRA PRADESH",
         "representative hq": "Warangal",
         "representative area": "Warangal Town",
-        "customer name": "Vinay Meds",
-        "customer pincode": "7575755",
-        "customer phone": "9952992212",
-        "phone": "843356372"
-    }
+        "customer name": "StaySafe Meds",
+        "customer pincode": "827482",
+        "customer phone": "99529072323",
+        "phone": "8723473737"
+    }    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
