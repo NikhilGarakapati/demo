@@ -129,6 +129,19 @@
         "customer__pincode": "5454544",
         "customer__phone": "1211210",
         "phone": "8723473737"
+    },
+            {
+        "id": "11",
+        "name": "Amit Singh",
+        "username": "Amit",
+        "email": "amit@gmail.com",
+        "representative__region": "ANDHRA PRADESH",
+        "representative__hq": "Warangal",
+        "representative__area": "Warangal Town",
+        "customer__name": "Vinay Meds",
+        "customer__pincode": "7575755",
+        "customer__phone": "9952992212",
+        "phone": "843356372"
     }
   ],
   "comments": [
